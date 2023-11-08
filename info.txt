@@ -1,0 +1,5 @@
+Student_id : 2313110971
+Student Name : Chayapol Thongrueng
+Major : IT
+Level : 1
+Faculty : Information Technology
