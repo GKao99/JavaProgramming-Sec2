@@ -8,7 +8,7 @@ public class Lab503 {
 			System.out.print("Nichi is a sentence");
 		}
 		else {
-			System.out.print(Message);
+			System.out.print(Message);	
 		}
 	}
 }
